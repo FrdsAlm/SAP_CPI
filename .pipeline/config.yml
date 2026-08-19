@@ -1,0 +1,15 @@
+---
+general:
+  cpiApiServiceKeyCredentialsId: "defaultkey"
+  integrationFlowId: "demo_flow_for_git"
+stages:
+  Upload:
+    enabled: true
+  Deploy:
+    enabled: true
+  Integration Test:
+    enabled: false
+steps:
+  integrationArtifactUpload:
+    integrationFlowName: "demo_flow_for_git"
+    filePath: "demo_flow_for_git"
