@@ -211,7 +211,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>wrapContent</key>
-                    <value>Hello to Git from CPI with automated cicd</value>
+                    <value>Hello to Git from CPI with AUTOMATED cicd</value>
                 </ifl:property>
                 <ifl:property>
                     <key>componentVersion</key>
